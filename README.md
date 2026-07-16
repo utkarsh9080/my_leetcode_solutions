@@ -12,3 +12,15 @@ we shall crack this shit
 
 
 <img width="533" height="361" alt="image" src="https://github.com/user-attachments/assets/a186ea18-5e20-4603-ab69-223e301ee172" />
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/utkarsh9080/my_leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/utkarsh9080/my_leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+<!---LeetCode Topics End-->
