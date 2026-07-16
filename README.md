@@ -18,9 +18,14 @@ we shall crack this shit
 ## Math
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/utkarsh9080/my_leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/utkarsh9080/my_leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/utkarsh9080/my_leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Array
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/utkarsh9080/my_leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
