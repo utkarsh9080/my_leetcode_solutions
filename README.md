@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>my_leetcode_solutions</h1>
+  <h1>My Leetcode Solutions</h1>
   <p><i>we shall crack this shit 😤</i></p>
 
   <p>
