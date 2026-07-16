@@ -1,10 +1,14 @@
 <div align="center">
-  <h1>My Leetcode Solutions</h1>
+  <h1>my_leetcode_solutions</h1>
   <p><i>we shall crack this shit 😤</i></p>
 
   <p>
-    <img src="https://github.com/user-attachments/assets/f446fe04-e436-4489-bfc5-7d494bb85fac" width="300" />
-    <img src="https://github.com/user-attachments/assets/a186ea18-5e20-4603-ab69-223e301ee172" width="300" />
+    <!-- Replace placeholders with your actual GitHub asset URLs -->
+    <img src="https://github.com/user-attachments/assets/f446fe04-e436-4489-bfc5-7d494bb85fac" width="220" alt="Gremlin Cat" />
+    <img src="https://github.com/user-attachments/assets/a186ea18-5e20-4603-ab69-223e301ee172" width="220" alt="Elmo Fire" />
+    <!--<img src="YOUR_THIRD_IMAGE_ASSET_URL_HERE" width="220" alt="Explosion Cat" /> -->
+    <img width="735" height="490" alt="Explosion Cat" src="https://github.com/user-attachments/assets/68d854ac-8b43-4670-9494-c1277296a285" />
+
   </p>
 
   <p>
