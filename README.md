@@ -1,7 +1,7 @@
 <div align="center">
   <h1>My Leetcode Solutions</h1>
   <p><i>we shall crack this shit 😤</i></p>
-
+  <p><i>I worship Editorial Page</i></p>
   <p>
     <!-- Replace placeholders with your actual GitHub asset URLs -->
     <img src="https://github.com/user-attachments/assets/f446fe04-e436-4489-bfc5-7d494bb85fac" width="220" alt="Gremlin Cat" />
