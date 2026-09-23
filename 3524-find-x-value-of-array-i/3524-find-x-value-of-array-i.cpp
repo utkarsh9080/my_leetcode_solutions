@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<long long> resultArray(vector<int>& nums, int k) {
         int n = nums.size();
-
+        //i HATE this
         vector<long long> result(k, 0);
         vector<long long> prevcount(k, 0);
         for (int i = 0; i < n; i++) {
