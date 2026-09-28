@@ -1,13 +1,30 @@
-class Solution {
-    public int reverseBits(int n) {
-        int ans = 0;
+// class Solution {
+//     public int reverseBits(int n) {
+//         int ans = 0;
 
-        for (int i = 0; i < 32; i++) {
-            ans <<= 1;
-            ans |= (n & 1);
-            n >>= 1;
+//         for (int i = 0; i < 32; i++) {
+//             ans <<= 1;
+//             ans |= (n & 1);
+//             n >>= 1;
+//         }
+
+//         return ans;
+//     }
+// }
+// 1ms?
+
+
+class Solution{
+    public int reverseBits(int n){
+        int ans=0;
+
+        for(int i=0;i<32;i++){
+            ans=(ans<<1)|(n&1);
+            n=n>>1;
         }
 
         return ans;
     }
 }
+
+//0ms?
